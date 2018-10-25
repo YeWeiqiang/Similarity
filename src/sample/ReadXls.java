@@ -30,7 +30,7 @@ public class ReadXls {
             rows = sheet.getRows();
             output = new double[columns][rows];
             for(int i = 0; i < columns; i++){
-                for(int j = 0; j < rows; j++) {
+                for(int j = 0; j < rows; j++){
                     cell = sheet.getCell(i, j);
                     output[i][j] = Double.parseDouble(cell.getContents());
                 }

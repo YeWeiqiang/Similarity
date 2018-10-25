@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/sample/Similarity.java" line="193" />
+    <bookmark url="file://$PROJECT_DIR$/src/sample/Similarity.java" line="196" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
@@ -59,20 +59,21 @@
     <session id="-619922469">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="2" />
+          <entry key="css" value="3" />
           <entry key="fxml" value="1" />
           <entry key="java" value="13" />
           <entry key="tld" value="1" />
@@ -80,21 +81,21 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
+          <entry key="CSS" value="3" />
           <entry key="JAVA" value="13" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="231" />
-          <entry key="java" value="3875" />
+          <entry key="css" value="290" />
+          <entry key="java" value="4973" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="231" />
-          <entry key="JAVA" value="3875" />
+          <entry key="CSS" value="290" />
+          <entry key="JAVA" value="4973" />
         </counts>
       </usages-collector>
     </session>
@@ -112,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/PearsonCorrelationScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state>
+              <caret selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -121,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/ReadXls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+            <state relative-caret-position="450">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,8 +134,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/Similarity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+            <state relative-caret-position="4725">
+              <caret line="206" column="73" selection-start-line="206" selection-start-column="73" selection-end-line="206" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -142,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CSS/Translate.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="250">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -159,6 +160,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tab</find>
+    </findStrings>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
@@ -172,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/sample/PaintAreaChart.java" />
         <option value="$PROJECT_DIR$/src/sample/Translate.css" />
         <option value="$PROJECT_DIR$/src/CSS/Translate.css" />
+        <option value="$PROJECT_DIR$/src/sample/ReadXls.java" />
         <option value="$PROJECT_DIR$/src/sample/Similarity.java" />
       </list>
     </option>
@@ -183,7 +190,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -233,14 +240,15 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540377187739" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540469984907" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="E:/JAVA/jar/jcommon.jar!/" />
+    <property name="last_opened_file_path" value="E:/JAVA/jar/jxl.jar!/" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -377,11 +385,16 @@
       <workItem from="1540347625218" duration="376000" />
       <workItem from="1540353523669" duration="4076000" />
       <workItem from="1540374917586" duration="2155000" />
+      <workItem from="1540377147443" duration="84000" />
+      <workItem from="1540378231682" duration="302000" />
+      <workItem from="1540379437752" duration="72000" />
+      <workItem from="1540380254785" duration="3755000" />
+      <workItem from="1540468877165" duration="1047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55782000" />
+    <option name="totallyTimeSpent" value="61042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,18 +406,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.14075068" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.15261044" />
+      <window_info id="Structure" order="1" weight="0.24966533" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" weight="0.32931727" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="2" y="84" width="1508" height="648" id="Run" order="2" weight="0.19688386" />
+      <window_info anchor="bottom" x="168" y="76" width="1048" height="772" id="Run" order="2" type="WINDOWED" weight="0.30311614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30736545" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,34 +520,34 @@
     <entry file="file://$PROJECT_DIR$/src/sample/CosineSimilarity.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CSS/Translate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/PearsonCorrelationScore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state>
+          <caret selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/ReadXls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        <state relative-caret-position="450">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CSS/Translate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Similarity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        <state relative-caret-position="4725">
+          <caret line="206" column="73" selection-start-line="206" selection-start-column="73" selection-end-line="206" selection-end-column="73" />
         </state>
       </provider>
     </entry>

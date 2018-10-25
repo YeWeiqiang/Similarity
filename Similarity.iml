@@ -19,7 +19,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://E:/JAVA/jar/jxl-2.6.12.jar!/" />
+          <root url="jar://E:/JAVA/jar/jfreechart-1.0.11.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +28,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://E:/JAVA/jar/jfreechart-1.0.11.jar!/" />
+          <root url="jar://E:/JAVA/jar/jxl.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
